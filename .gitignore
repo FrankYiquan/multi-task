@@ -4,3 +4,4 @@ data/*
 !data/.gitkeep
 utkface_dataset.tar.gz
 metric.csv
+.DS_Store
