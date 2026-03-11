@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/*
+!data/.gitkeep
+utkface_dataset.tar.gz
+metric.csv
